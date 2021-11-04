@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+#password{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    background-color: rgb(39, 58, 226);
+    border-radius: 20px;
+    width: 120px;
+    height: 50px;
+    color: white;
+}
