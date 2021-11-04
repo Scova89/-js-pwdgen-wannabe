@@ -1,3 +1,6 @@
 // alert('Hello World');
 
-console.log('ciao')
+
+
+const nome = prompt ('Inserisci il tuo nome')
+console.log('nome')
